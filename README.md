@@ -1,1 +1,15 @@
-Simple New Year's eve countdown timer created using HTML, CSS and JavaScript.
+# Password Generator
+
+A simple countdown to New Year's Eve. 
+
+## Link to Site
+
+https://ladparth.github.io/password-generator/
+
+This project was built with HTML, CSS, and JavaScript
+
+![tech-stack](./img/html-css-js.png)
+
+## Screenshots
+
+![countdown](./imgcountdown-timer.png)
