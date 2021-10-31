@@ -1,4 +1,4 @@
-# Password Generator
+# New Year's Eve Countdown
 
 A simple countdown to New Year's Eve. 
 
