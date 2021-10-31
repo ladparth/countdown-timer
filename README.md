@@ -4,7 +4,7 @@ A simple countdown to New Year's Eve.
 
 ## Link to Site
 
-https://ladparth.github.io/password-generator/
+https://ladparth.github.io/countdown-timer/
 
 This project was built with HTML, CSS, and JavaScript
 
@@ -12,4 +12,4 @@ This project was built with HTML, CSS, and JavaScript
 
 ## Screenshots
 
-![countdown](./imgcountdown-timer.png)
+![countdown](./img/countdown-timer.png)
